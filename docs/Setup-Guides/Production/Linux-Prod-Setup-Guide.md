@@ -5,7 +5,7 @@ This setup guide will instruct and explain the process in which BulletBot is set
 If you are doing dev work on BulletBot or just want to set him up manually, please follow the [Linux Dev Setup Guide](/Setup-Guides/Development/Linux-Dev-Setup-Guide/).
 
 !!! important "Important note before continuing"
-    Some of the contents of this setup guide are only applicable to BulletBot [v1.2.8](https://github.com/CodeBullet-Community/BulletBot/releases/tag/v1.2.8) and later. Due to improper writing/handling of past documentation, there is no proper documentation that can be referred to for versions older than v1.2.8.
+    Some of the contents of this setup guide are only applicable to BulletBot [v1.2.8](https://github.com/CodeBullet-Community/BulletBot/releases/tag/v1.2.8) and [v1.2.11](https://github.com/CodeBullet-Community/BulletBot/releases/tag/v1.2.11). Due to improper writing/handling of past documentation, there is no proper documentation that can be referred to for versions older than v1.2.8.
 
 ## Officially Supported Linux Distributions
 
